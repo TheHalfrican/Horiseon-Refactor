@@ -11,9 +11,9 @@ This was a refactoring of the Horiseon Social Solution Services, Inc. Website. I
 
 ## Sample-Image
 
-![Sample-Image](https://raw.githubusercontent.com/TheHalfrican/Horiseon-Refactor/main/Develop/assets/images/01-html-css-git-homework-demo.png)
+![Sample-Image](https://raw.githubusercontent.com/TheHalfrican/Horiseon-Refactor/main/assets/images/01-html-css-git-homework-demo.png)
 
 ## GitHub Pages
-- Github Pages: [Horiseon Refactor]()
+- Github Pages: [Horiseon Refactor](https://thehalfrican.github.io/Horiseon-Refactor/)
 ## Email
 - Contact at: [noahmattocks@gmail.com](mailto:noahmattocks@gmail.com)
